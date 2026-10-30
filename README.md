@@ -1,8 +1,6 @@
 # Solara V3 reverse engineering
 
-Static analysis of the Solara V3 Windows executor. No binary was executed at any
-point. Every conclusion comes from reading the files with Ghidra, pefile and
-Python.
+W Solara 
 
 ## What is in here
 
